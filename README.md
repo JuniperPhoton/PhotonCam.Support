@@ -4,7 +4,15 @@ This is the home page of the PhotonCam app support.
 
 Here you can:
 - Submit feedback via the "issue" section of this repository. Additionally, you are always welcome to contact me via email, which can be found on the about page of my app.
-- View the privacy policy below.
+- View the Subscriptions information as well as the privacy policy below.
+
+## Subscriptions information
+
+You can have full access to the app when you purchase a subscription or a permanent license.
+
+The subscription will automatically renew unless auto-renew is turned off. You can manage or turn off auto-renewal in your Apple ID Account Settings after purchase.
+
+Free trial opportunities are available only once per user for their first subscription. You can start the trial, and if you like, you can turn off auto-renewal and buy a permanent license.
 
 ## Privacy policy
 
