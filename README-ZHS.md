@@ -1,5 +1,7 @@
 # PhotonCam.支持
 
+[English](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/README.md)
+
 这是 PhotonCam 应用支持的主页。
 
 在这里你可以：
