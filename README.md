@@ -35,4 +35,4 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 
 This policy is effective as of 2023/12/15.
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us here..
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us here.
