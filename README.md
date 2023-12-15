@@ -9,6 +9,9 @@ Here you can:
 - View the Subscriptions information as well as the privacy policy below.
 - View more techniques about this app.
 
+More techniques:
+- [Create and import Luts to the app](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/Luts.md)
+
 ## Subscriptions information
 
 You can have full access to the app when you purchase a subscription or a permanent license.
