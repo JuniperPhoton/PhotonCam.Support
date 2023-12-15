@@ -1,5 +1,7 @@
 # PhotonCam.Support
 
+[简体中文](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/README-ZHS.md)
+
 This is the home page of the PhotonCam app support.
 
 Here you can:
