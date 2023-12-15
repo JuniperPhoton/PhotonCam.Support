@@ -7,6 +7,7 @@ This is the home page of the PhotonCam app support.
 Here you can:
 - Submit feedback via the "issue" section of this repository. Additionally, you are always welcome to contact me via email, which can be found on the about page of my app.
 - View the Subscriptions information as well as the privacy policy below.
+- View more techniques about this app.
 
 ## Subscriptions information
 
