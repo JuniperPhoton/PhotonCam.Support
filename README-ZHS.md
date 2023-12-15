@@ -1,13 +1,14 @@
-# PhotonCam.支持
+# PhotonCam 支持
 
 [English](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/README.md)
 
-这是 PhotonCam 应用支持的主页。
+这是 PhotonCam app 支持的主页。
 
 在这里你可以：
 
 - 通过这个仓库的“问题”部分提交反馈。此外，你也可以通过应用里关于页面上找到的电子邮件与我联系。
-- 下方查看订阅信息以及隐私政策。
+- 在下方查看订阅信息以及隐私政策。
+- 查看更多关于 app 的使用技巧。
 
 ## 订阅信息
 
