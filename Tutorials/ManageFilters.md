@@ -4,13 +4,13 @@ Aside from using the built-in filters, PhotonCam allows you to create your own f
 
 ## Create your filter when capturing
 
-![](./Assets/manage_filters_0.jpg)
+<img src="./Assets/manage_filters_0.jpg" alt="drawing" width="400"/>
 
 When you open the filter panel by clicking the right-bottom icon, not only you can choose which filter to be applied, you can also click the "+" icon on the left to start a filter creation.
 
 You can then adjust the parameters and the preview will update in real time to reflect your changes.
 
-![](./Assets/manage_filters_1.jpg)
+<img src="./Assets/manage_filters_1.jpg" alt="drawing" width="400"/>
 
 By clicking the "×" button, a prompt will be shown to let you choose to save this as a new filter or not. You can choose a preferred color to mark this filter. 
 
@@ -18,7 +18,7 @@ However, you can only edit the filter name in the filer management page.
 
 ## Create your filter in image edit
 
-![](./Assets/manage_filters_2.jpg)
+<img src="./Assets/manage_filters_2.jpg" alt="drawing" width="400"/>
 
 In image edit page, you can select a filter to use and tweak its parameters. If you are satisfied with this new filter, you can tap the "..." icon in the Filters tab and choose "Save as a new filter".
 
@@ -30,7 +30,7 @@ For example, you find that the built-in A1 filter is good for this photo, but th
 
 ## Duplicate a filter to edit
 
-![](./Assets/manage_filters_3.jpg)
+<img src="./Assets/manage_filters_3.jpg" alt="drawing" width="400"/>
 
 In the filter management page, you can create a new filter and starting editing its parameter by clicking the bottom-right button. 
 
@@ -40,7 +40,7 @@ To duplicate a filter, you can enter the filter detail page, and click the "Dupl
 
 ## Export filters to share or backup
 
-![](./Assets/manage_filters_4.jpg)
+<img src="./Assets/manage_filters_4.jpg" alt="drawing" width="400"/>
 
 To back up a filter, go to the filter detail page, click the "..." menu and click "Export parameters".
 
