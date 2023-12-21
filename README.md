@@ -11,6 +11,8 @@ Here you can:
 
 More techniques:
 - [Create and import Luts to the app](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/Luts.md)
+- [Manage filters](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/ManageFilters.md)
+- [Learn about advance tools](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/AdvanceTools.md)
 
 ## Subscriptions information
 
