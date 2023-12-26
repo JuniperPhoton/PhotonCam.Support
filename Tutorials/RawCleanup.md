@@ -8,7 +8,7 @@ PhotonCam allows you to capture photos with ProRaw. When you capture a photo wit
 
 > Note that iOS will only show "JPEG" tag even it's a HEIF. 
 
-<img src="./Assets/raw_cleanup_0.jpg" alt="drawing" width="400"/>
+<img src="./Assets/raw_cleanup_0.jpg" alt="" width="400"/>
 
 When editing this kind of photo in PhotonCam, it will automatically choose the RAW file to edit. So you will be able to have a second thought of the style of your photos.
 
@@ -16,7 +16,7 @@ When editing this kind of photo in PhotonCam, it will automatically choose the R
 
 PhotonCam can help you clean up raw files only if you would like to keep the HEIF/JPEG file and delete the DNG file.
 
-<img src="./Assets/raw_cleanup_1.jpg" alt="drawing" width="400"/>
+<img src="./Assets/raw_cleanup_1.jpg" alt="" width="400"/>
 
 You can go to the gallery page, click the top-right button and choose "Select".
 

@@ -2,3 +2,6 @@ PhotonCam
 Lut
 ProRaw
 MyerTidy
+Midtones
+midtones
+vibrance

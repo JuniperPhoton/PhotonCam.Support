@@ -24,31 +24,31 @@ PhotonCam allows you to create your own filters while in the photo capturing pag
 
 ### Open an image
 
-<img src="./Assets/photoshop0.jpg" alt="drawing" width="400"/>
+<img src="./Assets/photoshop0.jpg" alt="" width="400"/>
 
 First, open an image in Photoshop. Please make sure the image is in the background layer. If not so, use the "Background from layer" command from the Layer menu to create a background layer from current image layer.
 
-<img src="./Assets/photoshop1.jpg" alt="drawing" width="400"/>
+<img src="./Assets/photoshop1.jpg" alt="" width="400"/>
 
 ### Color-grade the image
 
 Now you can perform some color grading to your image by using adjustments layer from the Layer menu. 
 
-<img src="./Assets/photoshop2.jpg" alt="drawing" width="400"/>
+<img src="./Assets/photoshop2.jpg" alt="" width="400"/>
 
 For example, adjusting the tones using the Curves tool.
 
-<img src="./Assets/photoshop3.jpg" alt="drawing" width="400"/>
+<img src="./Assets/photoshop3.jpg" alt="" width="400"/>
 
 ### Export the cube
 
-<img src="./Assets/photoshop4.jpg" alt="drawing" width="400"/>
+<img src="./Assets/photoshop4.jpg" alt="" width="400"/>
 
 You can use the export menu to export Color Lookup Table.
 
 As you select the command, a prompt dialog will be displayed asking you to fill out some information.
 
-<img src="./Assets/photoshop5.jpg" alt="drawing" width="400"/>
+<img src="./Assets/photoshop5.jpg" alt="" width="400"/>
 
 The important thing here is to check the "cube" box and make sure the grids points is not greater than 64. By default, the grids points are 32, which is fine. The larger grids points are, the more intense will the computation be. To use the cube in your iPhone, you should keep this as low as possible. I have tested it and 32 will be fine.
 
@@ -60,7 +60,7 @@ Before sending this cube to your iPhone, you are suggested to validate the cube 
 
 You can use `Layer -> New Adjustment layer -> Color Lookup` tool to import the exported cube from your disk and check if the result is as expected.
 
-<img src="./Assets/photoshop6.jpg" alt="drawing" width="400"/>
+<img src="./Assets/photoshop6.jpg" alt="" width="400"/>
 
 ### Use cube in PhotonCam
 
@@ -74,4 +74,4 @@ There are various places you can use this cube file.
 
 By clicking the pick button, the file picker will be displayed, and you can locate your cube file and import it in app and see the result.
 
-<img src="./Assets/photoshop7.jpg" alt="drawing" width="400"/>
+<img src="./Assets/photoshop7.jpg" alt="" width="400"/>
