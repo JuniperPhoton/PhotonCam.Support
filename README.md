@@ -6,13 +6,14 @@ This is the home page of the PhotonCam app support.
 
 Here you can:
 - Submit feedback via the "issue" section of this repository. Additionally, you are always welcome to contact me via email, which can be found on the about page of my app.
-- View the Subscriptions information as well as the privacy policy below.
-- View more techniques about this app.
+- View the subscription information as well as the privacy policy below.
+- View tutorials about this app.
 
-More techniques:
+Tutorials:
 - [Create and import Luts to the app](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/Luts.md)
 - [Manage filters](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/ManageFilters.md)
 - [Learn about advance tools](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/AdvanceTools.md)
+- [Raw cleanup](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/RawCleanup.md)
 
 ## Subscriptions information
 
@@ -31,6 +32,8 @@ This Privacy Policy document contains types of information that is collected and
 By using our app, you hereby consent to our Privacy Policy and agree to its terms.
 
 The app does track certain information pertaining to user interaction and engagement. Specifically, we collect data on user clicks and page visits within the app. This information is used to improve the functionality and usability of our app and is not used for any other purpose.
+
+**Note that we request the Photo Library permission only to add captured photos to the library and read the photos captured by PhotonCam. We won't upload or analyze the content of you photos.**
 
 We use the information we collect in various ways, including to:
 
