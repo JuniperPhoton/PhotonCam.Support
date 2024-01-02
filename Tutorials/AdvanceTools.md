@@ -1,4 +1,4 @@
-# Advance tools
+# Adjustment tools
 
 PhotonCam includes some advance tools to help you create your perfect photos or filters.
 
@@ -16,7 +16,7 @@ There is a die-like button on the left in the toolbar, which will help you creat
 
 <img src="./Assets/advance_tools_0.jpg" alt=""/>
 
-Tonal range refers to the levels between an image’s darkest and lightest points.
+Some tools introduced below allow you to adjust the image by different tonal range. Thus, it's important to get to know about the Tonal range. Tonal range refers to the levels between an image’s darkest and lightest points.
 
 There are a few parts of the range:
 - Black
@@ -46,11 +46,13 @@ By adjusting contrast, the highlights part of the photo will be lighter while th
 
 <img src="./Assets/advance_tools_2.jpg" alt="" width="400"/>
 
-In the advance light tab, you can adjust the brightness of the photo by tonal range of black, shadows, midtones, highlights and white. Those tools are helpful if you would like to fine-tune the brightness of your photo. For example, you can create your own version of "contrast" by adding highlights and lowering shadows.
+In the advance light tab, you can adjust the brightness of the photo by tonal range of black, shadows, highlights and white. Those tools are helpful if you would like to fine-tune the brightness of your photo. For example, you can create your own version of "contrast" by adding highlights and lowering shadows.
 
 There is one more tool to mention: fade. By increasing fade, the pure black part of the photo will become more gray, like some films effect. Combing this fade effect with Color grading with shadow, you can create the film-like effect, like this below.
 
 <img src="./Assets/advance_tools_8.jpg" alt="" width="500"/>
+
+The before and after comparison for fading adjustment is shown above, with the left side being the adjusted fading.
 
 ## Color
 
@@ -64,7 +66,7 @@ The main difference between vibrance and saturation is that saturation adjusts t
 
 <img src="./Assets/advance_tools_4.jpg" alt="" width="400"/>
 
-Aside from adjusting the lights and contrast of your photo, you can add colors to a specified tonal range.
+Aside from adjusting the lights and contrast of your photo, you can add colors to a specified tonal range, which is also a great tool to create a film-look effect.
 
 For example, by adding green color to the shadow part, you will see the shadow area of your photo will be tinted with green color. You can choose the intensity of the color to be applied and select the color to be added using the color hue slider.
 

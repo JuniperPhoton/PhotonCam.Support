@@ -12,7 +12,7 @@ Here you can:
 Tutorials:
 - [Create and import Luts to the app](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/Luts.md)
 - [Manage filters](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/ManageFilters.md)
-- [Learn about advance tools](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/AdvanceTools.md)
+- [Learn about Adjustment tools](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/AdvanceTools.md)
 - [Raw cleanup](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/RawCleanup.md)
 
 ## Subscriptions information

@@ -10,6 +10,13 @@
 - 在下方查看订阅信息以及隐私政策。
 - 查看更多关于 app 的使用教程。
 
+教程:
+- [创建并使用 3D 颜色查找表](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials-ZHS/Luts.md)
+- [滤镜管理](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials-ZHS/ManageFilters.md)
+- [调节工具的使用](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials-ZHS/AdvanceTools.md)
+- [Raw 资源清理](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials-ZHS/RawCleanup.md)
+
+
 ## 订阅信息
 
 当你购买订阅或永久许可时，你可以完全访问 app 的所有功能。

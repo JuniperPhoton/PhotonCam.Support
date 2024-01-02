@@ -42,7 +42,7 @@ To duplicate a filter, you can enter the filter detail page, and click the "Dupl
 
 <img src="./Assets/manage_filters_4.jpg" alt="" width="400"/>
 
-To back up a filter, go to the filter detail page, click the "..." menu and click "Export parameters".
+To back up a filter, go to the filter detail page, click the "..." menu and click "Export filters".
 
 A share sheet will be displayed, you can choose to save it on your iPhone or share it to your friends or airdrop it to your Mac.
 
