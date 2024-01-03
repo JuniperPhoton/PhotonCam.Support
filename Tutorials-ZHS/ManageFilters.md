@@ -4,7 +4,7 @@
 
 ## 拍照的时候创造滤镜
 
-<img src="./Assets/manage_filters_0.jpg" alt="" width="400"/>
+<img src="./Assets/manage_filters_0.jpg" alt="" width="500"/>
 
 在拍照界面里，点击右下方的滤镜按钮将唤起滤镜面板。在这里你可以点击使用所有的自定义滤镜和自带滤镜。要创造滤镜，请点击最左侧的 + 图标。
 

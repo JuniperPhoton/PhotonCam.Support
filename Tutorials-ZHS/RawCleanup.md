@@ -1,6 +1,6 @@
-# Raw resources cleanup
+# Raw 资源清理
 
-## Photo resources model
+##  iOS 的照片资源模型
 
 PhotonCam 允许你使用 ProRaw 拍摄照片。当启用 ProRaw 拍摄照片时，两个文件将被保存在一个照片资产中（在 iOS 相册 app 里，一个列表里的照片对应一个照片资产，内部可能有一个或者多个照片文件）：
 
@@ -17,7 +17,7 @@ PhotonCam 允许你使用 ProRaw 拍摄照片。当启用 ProRaw 拍摄照片时
 
 前面提到，你可以同时保存一个 HEIF/JPEG 和 Raw 文件到一个照片资产里，方便后期进行重编辑。当然，这种方式比较占用存储空间。如果你觉得已经没有必要保留 Raw 文件，那么 PhotonCam 可以帮助你在保留原 HEIF/JPEG 文件的情况下，去删除 Raw 文件。
 
-<img src="./Assets/raw_cleanup_1.jpg" alt="" width="400"/>
+<img src="./Assets/raw_cleanup_1.jpg" alt="" width="600"/>
 
 你可以到 app 内的照片页面，点击右上角的选择按钮进行照片选择，选择需要清理的照片，然后点击最下方的「清理 Raw 文件」按钮。
 

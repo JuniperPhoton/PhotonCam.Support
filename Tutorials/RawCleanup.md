@@ -16,7 +16,7 @@ When editing this kind of photo in PhotonCam, it will automatically choose the R
 
 PhotonCam can help you clean up raw files only if you would like to keep the HEIF/JPEG file and delete the DNG file.
 
-<img src="./Assets/raw_cleanup_1.jpg" alt="" width="400"/>
+<img src="./Assets/raw_cleanup_1.jpg" alt="" width="500"/>
 
 You can go to the gallery page, click the top-right button and choose "Select".
 

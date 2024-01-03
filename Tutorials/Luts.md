@@ -24,7 +24,7 @@ PhotonCam allows you to create your own filters while in the photo capturing pag
 
 ### Open an image
 
-<img src="./Assets/photoshop0.jpg" alt="" width="400"/>
+<img src="./Assets/photoshop0.jpg" alt="" width="500"/>
 
 First, open an image in Photoshop. Please make sure the image is in the background layer. If not so, use the "Background from layer" command from the Layer menu to create a background layer from current image layer.
 
@@ -74,4 +74,4 @@ There are various places you can use this cube file.
 
 By clicking the pick button, the file picker will be displayed, and you can locate your cube file and import it in app and see the result.
 
-<img src="./Assets/photoshop7.jpg" alt="" width="400"/>
+<img src="./Assets/photoshop7.jpg" alt="" width="600"/>

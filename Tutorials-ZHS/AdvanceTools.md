@@ -8,7 +8,7 @@ PhotonCam 包含一些高级工具，帮助你创建完美的照片或滤镜。
 
 ## 随机滤镜
 
-<img src="./Assets/advance_tools_10.jpg" alt="" width="400"/>
+<img src="./Assets/advance_tools_10.jpg" alt=""/>
 
 在工具栏的左侧，有一个长得像骰子🎲一样的按钮。点击它，就能随机设置一些调节参数，从而获得一些独特的效果。
 
@@ -55,7 +55,7 @@ PhotonCam 包含一些高级工具，帮助你创建完美的照片或滤镜。
 
 ## 颜色调节
 
-<img src="./Assets/advance_tools_3.jpg" alt="" width="400"/>
+<img src="./Assets/advance_tools_4.jpg" alt="" width="400"/>
 
 在颜色调节页面，你可以调节色温、色调、自然饱和度以及饱和度。
 
@@ -65,7 +65,7 @@ PhotonCam 包含一些高级工具，帮助你创建完美的照片或滤镜。
 
 ## 颜色分级
 
-<img src="./Assets/advance_tools_4.jpg" alt="" width="400"/>
+<img src="./Assets/advance_tools_3.jpg" alt="" width="400"/>
 
 颜色分级是创造风格化滤镜的重要工具。除了按照不同明暗范围调整亮度，你还可以在不同的明暗范围内添加特定的颜色。
 

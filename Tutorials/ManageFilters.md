@@ -18,7 +18,7 @@ However, you can only edit the filter name in the filer management page.
 
 ## Create your filter in image edit
 
-<img src="./Assets/manage_filters_2.jpg" alt="" width="400"/>
+<img src="./Assets/manage_filters_4.jpg" alt="" width="500"/>
 
 In image edit page, you can select a filter to use and tweak its parameters. If you are satisfied with this new filter, you can tap the "..." icon in the Filters tab and choose "Save as a new filter".
 

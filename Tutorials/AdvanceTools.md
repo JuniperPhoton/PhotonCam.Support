@@ -8,7 +8,7 @@ This page will list all the tools PhotonCam provides and specify how to use.
 
 ## Random filter
 
-<img src="./Assets/advance_tools_10.jpg" alt="" width="400"/>
+<img src="./Assets/advance_tools_10.jpg" alt="" width="500"/>
 
 There is a die-like button on the left in the toolbar, which will help you create a random filter. If you are overwhelmed and can't figure out which style to use for your photos, you can try this on and on, and it may create a filter you like.
 
