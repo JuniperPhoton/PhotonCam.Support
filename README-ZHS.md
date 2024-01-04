@@ -8,14 +8,8 @@
 
 - 通过这个仓库的“问题”部分提交反馈。此外，你也可以通过应用里关于页面上找到的电子邮件与我联系。
 - 在下方查看订阅信息以及隐私政策。
-- 查看更多关于 app 的使用教程。
 
-教程:
-- [创建并使用 3D 颜色查找表](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials-ZHS/Luts.md)
-- [滤镜管理](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials-ZHS/ManageFilters.md)
-- [调节工具的使用](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials-ZHS/AdvanceTools.md)
-- [Raw 资源清理](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials-ZHS/RawCleanup.md)
-
+你可以在 [PhotonCam 的官网](https://juniperphoton.dev/photoncam/)里查看一些 app 的使用教程。
 
 ## 订阅信息
 

@@ -1,4 +1,4 @@
-# PhotonCam.Support
+# Support for the PhotonCam app
 
 [简体中文](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/README-ZHS.md)
 
@@ -9,11 +9,7 @@ Here you can:
 - View the subscription information as well as the privacy policy below.
 - View tutorials about this app.
 
-Tutorials:
-- [Create and import Luts to the app](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/Luts.md)
-- [Manage filters](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/ManageFilters.md)
-- [Learn about Adjustment tools](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/AdvanceTools.md)
-- [Raw cleanup](https://github.com/JuniperPhoton/PhotonCam.Support/blob/main/Tutorials/RawCleanup.md)
+You check out some tutorials in the [PhotonCam official website](https://juniperphoton.dev/photoncam).
 
 ## Subscriptions information
 
